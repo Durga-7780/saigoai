@@ -707,11 +707,10 @@ MANDATORY FOOTER:
 
                         table_html += (
                             f"<tr>"
-[I                            f"<td style='border:1px solid #000; padding:8px;'>{row.get('category')}</td>"
+                            f"<td style='border:1px solid #000; padding:8px;'>{row.get('category')}</td>"
                             f"<td style='border:1px solid #000; padding:8px; text-align:right;'>{amount}</td>"
                             f"</tr>"
                         )
-
                     table_html += (
                         f"<tr style='font-weight:bold;'>"
                         f"<td style='border:1px solid #000; padding:8px;'>TOTAL</td>"

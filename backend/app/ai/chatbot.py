@@ -170,7 +170,7 @@ Optional Holidays: 3 days (choose from the list in portal)
                 "question": "How do I book a meal?",
                 "answer": """To Book a Meal:
 1. Navigate to the 'Meal Booking' section.
-[O2. View available working days.
+[O2. View available working days.
 3. Select a date and choose meal type (Lunch/Dinner) and category (Veg/Non-Veg).
 4. Enter items and click 'Checkout & Book'.
 5. To Redeem: Show the QR code from the 'My Upcoming Meals' list to the canteen admin.""",
@@ -761,7 +761,7 @@ EXPLICIT REPLACEMENTS:
                 "\n\nIMPORTANT: I have attached an image of a template/sample letter. "
                 "Follow the structure, tone, and formatting of that image exactly, "
                 "but replace placeholder details with the employee details provided above."
-[O            )
+[O            )
 
         messages = [
             {
